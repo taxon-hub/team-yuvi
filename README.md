@@ -3,7 +3,14 @@ Team Members
 Gautham Varma
 Akhil.v
 Harikrishna.r
-Venkatesh.S
+Venkatesh.S 
+
+
+
+
+
+
+
 This project is all about the way to connect with the different people and chat with each other.
 One can view the other's when he can accept the request and they can connect each other through text messages
 and this enables to share the content what a person wants and etc.This works absolutely good with bugs reduced and with less memory space which most of them can download easily with less memory space allocated.
